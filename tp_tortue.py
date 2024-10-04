@@ -18,7 +18,7 @@ def polygone(longueur,nb_cote,ajout=0, deviation=0):
 def figure1():
     polygone(0.5,360000,0.05,-15)
 
-carre
+figure1()
 
         
 turtle.exitonclick()
